@@ -1,4 +1,4 @@
-<p align="center"><img width="360" height="360" src="FILLME"></p>
+<p align="center"><img width="360" height="360" src="https://raw.githubusercontent.com/lightbulbatelier/starlight/main/img/img_starlightlogo.png"></p>
 
 # Welcome to Starlight!
 
@@ -30,4 +30,3 @@ If you want to be a contributor or curator, please associate with us at https://
  
 
 ##### AstralSoup Starlight service is a trademark of Nicolas Bahamondes / LIGHTBULB. (C) 2021 AstralSoup Design. All rights reserved.
-##### Sit atop services from (C) 1998-2021 RealNetworks, Inc. Real, the RealNetworks logo, RealArcade and GameHouse are trademarks of RealNetworks, Inc. All rights reserved.

@@ -1,4 +1,4 @@
-<p align="center"><img width="360" height="360" src="https://raw.githubusercontent.com/lightbulbatelier/starlight/main/img/img_starlightlogo.png"></p>
+<p align="center"><img width="700" height="117" src="https://raw.githubusercontent.com/lightbulbatelier/starlight/main/img/img_starlightlogo.png"></p>
 
 # Welcome to Starlight!
 

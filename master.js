@@ -72,3 +72,8 @@ function winPop(game, x, y) {
 	window.open(url, new String((new Date()).getTime()), feat);
 }
 
+function getAltImage(o) {
+	o.onerror=null
+	o.src = o.src.substring( 0,(o.src.length -3) ) + 'jpg';
+	o.onerror=function(){getAltImage(this)}
+}
